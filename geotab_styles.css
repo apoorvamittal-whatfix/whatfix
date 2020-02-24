@@ -2,3 +2,7 @@ button[data-wfx-button-href]{
     background-color:#1070a9 !important;
     color: #FFFFFF !important;
 }
+button[data-wfx-button-href]:hover{
+    background-color:#1070a9 !important;
+    color: #FFFFFF !important;
+}
