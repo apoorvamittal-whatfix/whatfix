@@ -1,3 +1,6 @@
 .ico-check-circle{
     color:#0094DA !important;
 }
+button[data-wfx-button-href]{
+    background-color:#00bcd4 !important;
+}
