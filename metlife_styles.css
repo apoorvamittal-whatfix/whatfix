@@ -3,4 +3,5 @@ div[aria-level="1"]{
 }
 a[aria-label="Close Icon"]+div{
     margin-top:0px !important;
+    padding-bottom:0px !important;
 }
