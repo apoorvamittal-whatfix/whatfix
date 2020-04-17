@@ -1,3 +1,6 @@
 div[aria-level="1"]{
     display:none !important;
 }
+a[aria-label="Close Icon"]+div{
+    margin-top:0px !important;
+}
