@@ -1,15 +1,16 @@
+//Minimised SH widget
 div#_widget_wfx_ { 
 background-color: #2c172d !important; 
 }
+//Flow tip
 #wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div {
  background-color: #2c172d !important; 
 } 
+//Minimised Tasklist
 div[id="_tasker_wfx_"] a { 
 background-color: #2c172d !important; 
 }
-body > table[role=presentation] > tbody > tr:nth-child(1) > td > div > div:nth-child(1){ 
-background-color: #2c172d !important; 
-}
+//TL Expanded
 body > table[role="presentation"] > tbody > tr > td > div > div:nth-child(1)
 { 
 background-color: #2c172d !important; 
