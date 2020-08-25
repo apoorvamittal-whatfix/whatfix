@@ -1,0 +1,12 @@
+div#_widget_wfx_ { 
+background-color: #2c172d !important; 
+}
+div[id="wfx-flow-tip"] { 
+background-color: #2c172d !important; 
+}
+div[id="_tasker_wfx_"] a { 
+background-color: #2c172d !important; 
+}
+body > table[role=presentation] > tbody > tr:nth-child(1) > td > div > div:nth-child(1){ 
+background-color: #2c172d !important; 
+}
