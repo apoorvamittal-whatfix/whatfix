@@ -3,6 +3,10 @@ font-size : 30px !important;
 font-family : Verdana !important;
 }
 
+[id*="wfx-dashboard-self-help-flow-"] {
+color: #00FFFF !important;
+}
+
 font-family : Verdana !important;
 
 //Minimised SH widget
