@@ -1,5 +1,6 @@
 body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
 font-size : 30px !important;
+font-family : Verdana !important;
 }
 
 font-family : Verdana !important;
