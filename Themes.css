@@ -14,8 +14,9 @@ div#_widget_wfx_ {
 background-color: #2c172d !important; 
 }
 //Flow tip
-#wfx-flow-tip > div > div > table > tbody > tr:nth-child(2) > td > div > div {
- background-color: #2c172d !important; 
+#wfx-flow-tip > div > div > table > tbody > tr > td:nth-child(1) > div > div {
+ background-color: #2c172d !important;
+ border-color: red !important;
 } 
 //Minimised Tasklist
 div[id="_tasker_wfx_"] a { 
