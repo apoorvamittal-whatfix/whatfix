@@ -21,3 +21,10 @@ background-color:  #DEEFF3 !important;
 {
 border-color:  black !important;
 }
+
+[type="button"][class="co-quicko-whatfix-start-StartCss-secondaryButton""]
+{
+border-color:  red !important;
+}
+
+
